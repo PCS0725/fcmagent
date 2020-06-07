@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54905128084",
+    "firebase_url": "https://coolapp-c014b.firebaseio.com",
+    "project_id": "coolapp-c014b",
+    "storage_bucket": "coolapp-c014b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54905128084:android:67590c8d3ca185bfc7a081",
+        "android_client_info": {
+          "package_name": "someapp.autoupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54905128084-3tuk9ijm99l7k84do80k0vf7iu8o3nvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-FB9dckIrnX2oJOR1BYV2J3gfr1ymLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54905128084-3tuk9ijm99l7k84do80k0vf7iu8o3nvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
